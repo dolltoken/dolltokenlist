@@ -246,7 +246,7 @@
           "symbol": "DOLL",
           "decimals": 18,
           "address": "0x611F3B15a027f8895E7d83CE7CB21fD82b2C50B7",
-          "logoURI": "https://raw.githubusercontent.com/dolltoken/dolltokenlist/cca54fa56929d8e2929aca382ba6b6a1fbd02642/assets/logo.png"
+          "logoURI": "https://raw.githubusercontent.com/dolltoken/dolltokenlist/main/assets/logo.png"
       }
   ]
 }
