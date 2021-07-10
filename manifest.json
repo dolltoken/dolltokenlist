@@ -239,6 +239,14 @@
           "decimals": 18,
           "address": "0xE41d2489571d322189246DaFA5ebDe1F4699F498",
           "logoURI": "https://gemini.com/images/currencies/icons/default/zrx.svg"
+      },
+      {
+          "name": "DollarToken",
+          "chainId": 128,
+          "symbol": "DOLL",
+          "decimals": 18,
+          "address": "0x611F3B15a027f8895E7d83CE7CB21fD82b2C50B7",
+          "logoURI": "https://gemini.com/images/currencies/icons/default/zrx.svg"
       }
   ]
 }
